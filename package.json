@@ -1,0 +1,25 @@
+{
+  "name": "faar",
+  "version": "0.0.1-alpha",
+  "description": "FAst ARchiver for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hax/faar.git"
+  },
+  "keywords": [
+    "archive",
+    "tar",
+    "gzip",
+    "zip"
+  ],
+  "author": "HE Shi-Jun <johnhax@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hax/faar/issues"
+  },
+  "homepage": "https://github.com/hax/faar#readme"
+}
