@@ -1,5 +1,7 @@
 # FAst ARchiver for Node.js
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/hax/faar.svg)](https://greenkeeper.io/)
+
 ## Why faar?
 
 Because current packages for archive/unarchive (archiver, Decompress, tar-stream/tar-fs, etc.)
